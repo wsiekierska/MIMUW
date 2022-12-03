@@ -1,0 +1,3 @@
+/Users/wiktoria/Documents/Trzy_rozne/cmake-build-debug/CMakeFiles/Trzy_rozne.dir
+/Users/wiktoria/Documents/Trzy_rozne/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wiktoria/Documents/Trzy_rozne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
