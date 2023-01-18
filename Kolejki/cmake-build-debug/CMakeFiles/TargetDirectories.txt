@@ -1,0 +1,3 @@
+/Users/wiktoria/Library/Mobile Documents/com~apple~CloudDocs/MIMUW/WDP*/Kolejki/cmake-build-debug/CMakeFiles/Kolejki.dir
+/Users/wiktoria/Library/Mobile Documents/com~apple~CloudDocs/MIMUW/WDP*/Kolejki/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wiktoria/Library/Mobile Documents/com~apple~CloudDocs/MIMUW/WDP*/Kolejki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
