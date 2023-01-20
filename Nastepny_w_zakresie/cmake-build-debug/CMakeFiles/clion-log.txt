@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/wiktoria/Library/Mobile Documents/com~apple~CloudDocs/MIMUW/WDP*/Nastepny_w_zakresie" -B "/Users/wiktoria/Library/Mobile Documents/com~apple~CloudDocs/MIMUW/WDP*/Nastepny_w_zakresie/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wiktoria/Library/Mobile Documents/com~apple~CloudDocs/MIMUW/WDP*/Nastepny_w_zakresie/cmake-build-debug
